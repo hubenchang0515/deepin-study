@@ -1,4 +1,4 @@
-# gsettings-study
+# deepin-study
 
 * [Golang](./golang/SUMMARY.md)  
 * [GSettings](./gsettings/SUMMARY.md)  
